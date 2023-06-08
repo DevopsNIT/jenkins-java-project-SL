@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+Registration Page  for VIVIN
 </title>  
 </head>  
 <body bgcolor="Lightskyblue">  
